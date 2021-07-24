@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://parthipanmatkunam.medium.com">
+    <a href="https://parthipannatkunam.medium.com">
         <img src="/images/introbar.png" alt="parthipan header"/>
     </a>
 </p>
