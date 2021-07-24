@@ -30,6 +30,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 🔎 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Parthipan Natkunam for How to mock navigator.clipboard.writeText() in Jest?](https://stackoverflow.com/questions/62351935/how-to-mock-navigator-clipboard-writetext-in-jest/65870099#65870099)
+- [Answer by Parthipan Natkunam for create-react-app error - Cannot find module 'fs-extra'](https://stackoverflow.com/questions/50724329/create-react-app-error-cannot-find-module-fs-extra/58448852#58448852)
+- [Answer by Parthipan Natkunam for Getting error when running npm start for reactjs in ec2](https://stackoverflow.com/questions/58285368/getting-error-when-running-npm-start-for-reactjs-in-ec2/58342171#58342171)
+- [Answer by Parthipan Natkunam for How to fade out current video and fade in new video onclick?](https://stackoverflow.com/questions/53316112/how-to-fade-out-current-video-and-fade-in-new-video-onclick/53318218#53318218)
+- [Answer by Parthipan Natkunam for How do I Map one array value agaisnt another to produce a result](https://stackoverflow.com/questions/53299774/how-do-i-map-one-array-value-agaisnt-another-to-produce-a-result/53300303#53300303)
 <!-- STACKOVERFLOW:END -->
 
 <!--
