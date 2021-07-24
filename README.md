@@ -1,3 +1,4 @@
+<section style="background:#e77267;padding:1rem;">
 <p align="center">
     <a href="https://parthipanmatkunam.medium.com">
         <img src="/images/introbar.png" alt="parthipan header"/>
@@ -6,6 +7,7 @@
 
 ### Hi there 👋
 
+</section>
 <!--
 **Parthipan-Natkunam/Parthipan-Natkunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
