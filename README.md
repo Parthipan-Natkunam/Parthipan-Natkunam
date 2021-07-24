@@ -1,4 +1,3 @@
-<section style="background:#e77267;padding:1rem;">
 <p align="center">
     <a href="https://parthipanmatkunam.medium.com">
         <img src="/images/introbar.png" alt="parthipan header"/>
@@ -6,8 +5,20 @@
 </p>
 
 ### Hi there 👋
+I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
 
-</section>
+### What I Do:
+- Build production-grade web applications for companies.
+- Mentor Junior and peer developers.
+- Teach full-stack & front-end engineering through dedicated online sessions.
+- Write Technical blog articles to share knowledge with the community.
+- Create open-source tools and plugins.
+
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!--
 **Parthipan-Natkunam/Parthipan-Natkunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
