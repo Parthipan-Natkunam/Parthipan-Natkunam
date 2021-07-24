@@ -4,7 +4,9 @@
     </a>
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthipan-Natkunam&hide=contribs&count_private=true&show_icons=true&hide_border=true&cache_seconds=86400&custom_title=Github%20Stats&bg_color=00112b&title_color=ed7367&icon_color=ed7367&text_color=e24874)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Parthipan-Natkunam&hide=contribs&count_private=true&show_icons=true&hide_border=true&cache_seconds=86400&custom_title=Github%20Stats&bg_color=00112b&title_color=ed7367&icon_color=ed7367&text_color=e24874" alt="github stats"/>
+</p>
 
 ### Hi there 👋
 I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
