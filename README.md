@@ -4,10 +4,12 @@
     </a>
 </p>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parthipan-Natkunam&hide=contribs&count_private=true&show_icons=true&hide_border=true&cache_seconds=86400&custom_title=Github%20Stats&bg_color=00112b&title_color=ed7367&icon_color=ed7367&text_color=e24874)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
 
-<hr/>
+---
 
 ### What I Do
 - Build production-grade web applications for companies.
@@ -16,7 +18,7 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 - Write Technical blog articles to share knowledge with the community.
 - Create open-source tools and plugins.
 
-<hr/>
+---
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,7 +29,7 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 - [Practical Introduction to Strategy Design Pattern Using Java](https://medium.com/swlh/practical-introduction-to-strategy-design-pattern-using-java-bb664b3f2889?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
-<hr/>
+---
 
 ### 🔎 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
@@ -37,6 +39,9 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 - [Answer by Parthipan Natkunam for How to fade out current video and fade in new video onclick?](https://stackoverflow.com/questions/53316112/how-to-fade-out-current-video-and-fade-in-new-video-onclick/53318218#53318218)
 - [Answer by Parthipan Natkunam for How do I Map one array value agaisnt another to produce a result](https://stackoverflow.com/questions/53299774/how-do-i-map-one-array-value-agaisnt-another-to-produce-a-result/53300303#53300303)
 <!-- STACKOVERFLOW:END -->
+
+
+
 
 <!--
 **Parthipan-Natkunam/Parthipan-Natkunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
