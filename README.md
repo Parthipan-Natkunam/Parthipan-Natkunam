@@ -8,6 +8,7 @@
 I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
 
 <hr/>
+
 ### What I Do
 - Build production-grade web applications for companies.
 - Mentor Junior and peer developers.
