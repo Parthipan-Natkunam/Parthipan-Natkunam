@@ -7,12 +7,15 @@
 ### Hi there 👋
 I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
 
-### What I Do:
+<hr/>
+### What I Do
 - Build production-grade web applications for companies.
 - Mentor Junior and peer developers.
 - Teach full-stack & front-end engineering through dedicated online sessions.
 - Write Technical blog articles to share knowledge with the community.
 - Create open-source tools and plugins.
+
+<hr/>
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,6 +26,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 - [Practical Introduction to Strategy Design Pattern Using Java](https://medium.com/swlh/practical-introduction-to-strategy-design-pattern-using-java-bb664b3f2889?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
+<hr/>
+
+### 🔎 StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 <!--
 **Parthipan-Natkunam/Parthipan-Natkunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
