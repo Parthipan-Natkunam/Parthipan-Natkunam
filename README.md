@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://parthipanmatkunam.medium.com">
-        <img src="hhttps://raw.githubusercontent.com/Parthipan-Natkunam/Parthipan-Natkunam/main/images/introbar.png" alt="parthipan header"/>
+        <img src="/images/introbar.png" alt="parthipan header"/>
     </a>
 </p>
 
