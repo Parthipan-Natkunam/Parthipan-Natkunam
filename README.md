@@ -14,7 +14,7 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 - Write Technical blog articles to share knowledge with the community.
 - Create open-source tools and plugins.
 
-### Recent Blog Posts
+### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
