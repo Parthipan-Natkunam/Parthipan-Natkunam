@@ -1,4 +1,3 @@
-[![Contact me on Codementor](https://www.codementor.io/m-badges/parthipannatkunam/im-a-cm-b.svg)](https://www.codementor.io/@parthipannatkunam?refer=badge)
 
 ### Hi there 👋
 I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
