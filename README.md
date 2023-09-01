@@ -15,11 +15,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Node.js Applications With PM2 Clusters](https://medium.com/geekculture/scaling-node-js-applicationswith-pm2-clusters-c216c4468d66?source=rss-1a7725724267------2)
-- [A Practical Introduction to Advanced Usage of TypeScript Generics](https://medium.com/nerd-for-tech/a-practical-introduction-to-advanced-usage-of-typescript-generics-92aa7e8ae47d?source=rss-1a7725724267------2)
-- [Continuously Deploy Static Pages with Github Actions &amp; gh-pages](https://javascript.plainenglish.io/continuously-deploy-static-pages-with-github-actions-gh-pages-207e4a009d1c?source=rss-1a7725724267------2)
-- [What is Idempotency in REST APIs and Why Should You Care?](https://medium.com/nerd-for-tech/what-is-idempotency-in-rest-apis-and-why-should-you-care-8c0a550e345f?source=rss-1a7725724267------2)
-- [API Security — Broken Object Level Authorization: Attack and Defense](https://medium.com/nerd-for-tech/api-security-broken-object-level-authorization-attack-and-defense-7f1bcdc5e9dd?source=rss-1a7725724267------2)
+- [Monkey Patching: What Is It and Why It Should Be a Last Resort?](https://medium.com/geekculture/monkey-patching-what-is-it-and-why-it-should-be-a-last-resort-64d37776f8fb?source=rss-1a7725724267------2)
+- [Mocking Dependencies In Unit Tests](https://javascript.plainenglish.io/mocking-dependencies-in-unit-tests-b090e716f324?source=rss-1a7725724267------2)
+- [A Deep Dive into TypeScript Enums](https://javascript.plainenglish.io/a-deep-dive-into-typescript-enums-d3b500b0197f?source=rss-1a7725724267------2)
+- [Apropos — The Unix Command](https://medium.com/geekculture/apropos-the-unix-command-172569b1731d?source=rss-1a7725724267------2)
+- [Building Accessible Modal Dialogs](https://medium.com/geekculture/building-accessible-modal-dialogs-e6971a686dff?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
