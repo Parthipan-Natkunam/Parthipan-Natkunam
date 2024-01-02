@@ -15,11 +15,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Guide on Next.js Server Actions](https://javascript.plainenglish.io/a-quick-guide-on-next-js-server-actions-fd3d2e4f2dbf?source=rss-1a7725724267------2)
 - [Demystifying Serverless Computing with Val Town](https://javascript.plainenglish.io/demystifying-serverless-computing-with-val-town-559f37f8d1f3?source=rss-1a7725724267------2)
 - [Understanding Event-Driven Computing With Node.js](https://javascript.plainenglish.io/understanding-event-driven-computing-with-node-js-846997f0a51b?source=rss-1a7725724267------2)
 - [Add a GraphQL Endpoint to Your Content on Strapi](https://javascript.plainenglish.io/add-a-graphql-endpoint-to-your-content-on-strapi-d59cb325698f?source=rss-1a7725724267------2)
 - [Monkey Patching: What Is It and Why It Should Be a Last Resort?](https://medium.com/geekculture/monkey-patching-what-is-it-and-why-it-should-be-a-last-resort-64d37776f8fb?source=rss-1a7725724267------2)
-- [Mocking Dependencies In Unit Tests](https://javascript.plainenglish.io/mocking-dependencies-in-unit-tests-b090e716f324?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
