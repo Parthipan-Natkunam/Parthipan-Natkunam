@@ -15,7 +15,7 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring CSS Isolation Property: Enhancing Web Design with Stacking Contexts](https://parthipannatkunam.medium.com/exploring-css-isolation-property-enhancing-web-design-with-stacking-contexts-87dedfa0f2c0?source=rss-1a7725724267------2)
+- [Exploring CSS Isolation Property: Enhancing Web Design with Stacking Contexts](https://levelup.gitconnected.com/exploring-css-isolation-property-enhancing-web-design-with-stacking-contexts-87dedfa0f2c0?source=rss-1a7725724267------2)
 - [Exploring Path Traversal Vulnerability In Node-Static Package](https://javascript.plainenglish.io/exploring-path-traversal-vulnerability-in-node-static-package-8454c07332bc?source=rss-1a7725724267------2)
 - [A Quick Guide on Next.js Server Actions](https://javascript.plainenglish.io/a-quick-guide-on-next-js-server-actions-fd3d2e4f2dbf?source=rss-1a7725724267------2)
 - [Demystifying Serverless Computing with Val Town](https://javascript.plainenglish.io/demystifying-serverless-computing-with-val-town-559f37f8d1f3?source=rss-1a7725724267------2)
