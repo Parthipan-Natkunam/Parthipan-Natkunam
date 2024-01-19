@@ -15,11 +15,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multiprocessing in Node.js: A Deep Dive into Child Process Creation](https://javascript.plainenglish.io/multiprocessing-in-node-js-a-deep-dive-into-child-process-creation-50a37953bc74?source=rss-1a7725724267------2)
+- [The Art and Science of Developer Onboarding: Insights from Google](https://levelup.gitconnected.com/the-art-and-science-of-developer-onboarding-insights-from-google-3ef085bcc81b?source=rss-1a7725724267------2)
 - [Exploring CSS Isolation Property: Enhancing Web Design with Stacking Contexts](https://levelup.gitconnected.com/exploring-css-isolation-property-enhancing-web-design-with-stacking-contexts-87dedfa0f2c0?source=rss-1a7725724267------2)
 - [Exploring Path Traversal Vulnerability In Node-Static Package](https://javascript.plainenglish.io/exploring-path-traversal-vulnerability-in-node-static-package-8454c07332bc?source=rss-1a7725724267------2)
 - [A Quick Guide on Next.js Server Actions](https://javascript.plainenglish.io/a-quick-guide-on-next-js-server-actions-fd3d2e4f2dbf?source=rss-1a7725724267------2)
-- [Demystifying Serverless Computing with Val Town](https://javascript.plainenglish.io/demystifying-serverless-computing-with-val-town-559f37f8d1f3?source=rss-1a7725724267------2)
-- [Understanding Event-Driven Computing With Node.js](https://javascript.plainenglish.io/understanding-event-driven-computing-with-node-js-846997f0a51b?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
