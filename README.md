@@ -15,7 +15,7 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Things Beyond Your Coding Skills](https://parthipannatkunam.medium.com/things-beyond-your-coding-skills-7a6e0ed79e2a?source=rss-1a7725724267------2)
+- [Skills Beyond Coding for A Successful Career in Software Engineering](https://parthipannatkunam.medium.com/things-beyond-your-coding-skills-7a6e0ed79e2a?source=rss-1a7725724267------2)
 - [Unraveling JavaScript Prototype Pollution: Understanding and Prevention](https://javascript.plainenglish.io/unraveling-javascript-prototype-pollution-understanding-and-prevention-0c44a26a9df5?source=rss-1a7725724267------2)
 - [Multiprocessing in Node.js: A Deep Dive into Child Process Creation](https://javascript.plainenglish.io/multiprocessing-in-node-js-a-deep-dive-into-child-process-creation-50a37953bc74?source=rss-1a7725724267------2)
 - [The Art and Science of Developer Onboarding: Insights from Google](https://levelup.gitconnected.com/the-art-and-science-of-developer-onboarding-insights-from-google-3ef085bcc81b?source=rss-1a7725724267------2)
