@@ -15,11 +15,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Effortless Scaling: A Beginner’s Guide to Serverless Computing](https://parthipannatkunam.medium.com/effortless-scaling-a-beginners-guide-to-serverless-computing-b768d865b3fb?source=rss-1a7725724267------2)
 - [The Yield* Keyword in JS Generators](https://javascript.plainenglish.io/the-yield-keyword-in-js-generators-4fd27977c4d5?source=rss-1a7725724267------2)
 - [Mastering Asynchronous JavaScript: Leveraging Generators with Promises](https://levelup.gitconnected.com/mastering-asynchronous-javascript-leveraging-generators-with-promises-566907c9832e?source=rss-1a7725724267------2)
 - [Getting Started With Generators in JS](https://javascript.plainenglish.io/getting-started-with-generators-in-js-8b929f699d0a?source=rss-1a7725724267------2)
 - [Skills Beyond Coding for A Successful Career in Software Engineering](https://parthipannatkunam.medium.com/things-beyond-your-coding-skills-7a6e0ed79e2a?source=rss-1a7725724267------2)
-- [Unraveling JavaScript Prototype Pollution: Understanding and Prevention](https://javascript.plainenglish.io/unraveling-javascript-prototype-pollution-understanding-and-prevention-0c44a26a9df5?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
