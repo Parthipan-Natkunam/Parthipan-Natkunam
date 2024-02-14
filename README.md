@@ -15,11 +15,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Mastering Currying in JavaScript](https://levelup.gitconnected.com/a-comprehensive-guide-to-mastering-currying-in-javascript-975f51ebd565?source=rss-1a7725724267------2)
 - [Mastering CSS Layers: A Game-Changer for Your Styling Workflow](https://levelup.gitconnected.com/mastering-css-layers-a-game-changer-for-your-styling-workflow-6e1611feaa28?source=rss-1a7725724267------2)
 - [The Ultimate Guide to Using cURL in PHP for Server-to-Server Communication](https://levelup.gitconnected.com/the-ultimate-guide-to-using-curl-in-php-for-server-to-server-communication-ddbf032326c8?source=rss-1a7725724267------2)
 - [Effortless Scaling: A Beginner’s Guide to Serverless Computing](https://parthipannatkunam.medium.com/effortless-scaling-a-beginners-guide-to-serverless-computing-b768d865b3fb?source=rss-1a7725724267------2)
 - [The Yield* Keyword in JS Generators](https://javascript.plainenglish.io/the-yield-keyword-in-js-generators-4fd27977c4d5?source=rss-1a7725724267------2)
-- [Mastering Asynchronous JavaScript: Leveraging Generators with Promises](https://levelup.gitconnected.com/mastering-asynchronous-javascript-leveraging-generators-with-promises-566907c9832e?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
