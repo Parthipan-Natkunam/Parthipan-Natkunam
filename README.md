@@ -15,11 +15,11 @@ I am parthipan, a full-stack capable software craftsman specialized in front-end
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging TypeScript SAM Lambda with Breakpoints: A Simple Guide](https://levelup.gitconnected.com/debugging-typescript-sam-lambda-with-breakpoints-a-simple-guide-c09aa4c0cb28?source=rss-1a7725724267------2)
 - [Getting Started with MongoDB in Java : A Beginner’s Guide](https://levelup.gitconnected.com/getting-started-with-mongodb-in-java-a-beginners-guide-3e2f9d0f7c69?source=rss-1a7725724267------2)
 - [6 Configs to Secure Server-to-Server Communications using cURL in PHP](https://levelup.gitconnected.com/6-configs-to-secure-server-to-server-communications-using-curl-in-php-a144719b62d0?source=rss-1a7725724267------2)
 - [A Comprehensive Guide to Mastering Currying in JavaScript](https://levelup.gitconnected.com/a-comprehensive-guide-to-mastering-currying-in-javascript-975f51ebd565?source=rss-1a7725724267------2)
 - [Mastering CSS Layers: A Game-Changer for Your Styling Workflow](https://levelup.gitconnected.com/mastering-css-layers-a-game-changer-for-your-styling-workflow-6e1611feaa28?source=rss-1a7725724267------2)
-- [The Ultimate Guide to Using cURL in PHP for Server-to-Server Communication](https://levelup.gitconnected.com/the-ultimate-guide-to-using-curl-in-php-for-server-to-server-communication-ddbf032326c8?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
