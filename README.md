@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I am parthipan, a full-stack capable software craftsman specialized in front-end engineering.
+I am parthipan, a full-stack software craftsman who is comfortable with handling DevOps.
 
 ---
 
