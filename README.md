@@ -15,11 +15,11 @@ I am parthipan, a full-stack software craftsman who is comfortable with handling
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to Alternate Data Streams &lpar;ADS&rpar;](https://levelup.gitconnected.com/an-introduction-to-alternate-data-streams-ads-f849c0205d63?source=rss-1a7725724267------2)
 - [SQL Tip: Understanding the Difference Between UNION and UNION ALL](https://levelup.gitconnected.com/sql-tip-understanding-the-difference-between-union-and-union-all-618603628dcd?source=rss-1a7725724267------2)
 - [Debugging TypeScript SAM Lambda with Breakpoints: A Simple Guide](https://levelup.gitconnected.com/debugging-typescript-sam-lambda-with-breakpoints-a-simple-guide-c09aa4c0cb28?source=rss-1a7725724267------2)
 - [Getting Started with MongoDB in Java : A Beginner’s Guide](https://levelup.gitconnected.com/getting-started-with-mongodb-in-java-a-beginners-guide-3e2f9d0f7c69?source=rss-1a7725724267------2)
 - [6 Configs to Secure Server-to-Server Communications using cURL in PHP](https://levelup.gitconnected.com/6-configs-to-secure-server-to-server-communications-using-curl-in-php-a144719b62d0?source=rss-1a7725724267------2)
-- [A Comprehensive Guide to Mastering Currying in JavaScript](https://levelup.gitconnected.com/a-comprehensive-guide-to-mastering-currying-in-javascript-975f51ebd565?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
