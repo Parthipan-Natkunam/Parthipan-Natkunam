@@ -15,11 +15,11 @@ I am parthipan, a full-stack software craftsman who is comfortable with handling
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Custom Middleware for a Sinatra Application in Ruby](https://levelup.gitconnected.com/creating-custom-middleware-for-a-sinatra-application-in-ruby-07d743b9c4bd?source=rss-1a7725724267------2)
 - [Building Projects With Chrome’s On-device AI](https://levelup.gitconnected.com/building-projects-with-chromes-on-device-ai-4b66a5ec7fc1?source=rss-1a7725724267------2)
 - [An Introduction to Alternate Data Streams &lpar;ADS&rpar;](https://levelup.gitconnected.com/an-introduction-to-alternate-data-streams-ads-f849c0205d63?source=rss-1a7725724267------2)
 - [SQL Tip: Understanding the Difference Between UNION and UNION ALL](https://levelup.gitconnected.com/sql-tip-understanding-the-difference-between-union-and-union-all-618603628dcd?source=rss-1a7725724267------2)
 - [Debugging TypeScript SAM Lambda with Breakpoints: A Simple Guide](https://levelup.gitconnected.com/debugging-typescript-sam-lambda-with-breakpoints-a-simple-guide-c09aa4c0cb28?source=rss-1a7725724267------2)
-- [Getting Started with MongoDB in Java : A Beginner’s Guide](https://levelup.gitconnected.com/getting-started-with-mongodb-in-java-a-beginners-guide-3e2f9d0f7c69?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
