@@ -15,11 +15,11 @@ I am parthipan, a full-stack software craftsman who is comfortable with handling
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Simple State Manager from Scratch](https://levelup.gitconnected.com/build-a-simple-state-manager-from-scratch-6493060d9716?source=rss-1a7725724267------2)
 - [An Illustrated Guide to 5 Overlooked Set Methods In Python](https://levelup.gitconnected.com/an-illustrated-guide-to-5-overlooked-set-methods-in-python-cef262ffad19?source=rss-1a7725724267------2)
 - [Creating Custom Middleware for a Sinatra Application in Ruby](https://levelup.gitconnected.com/creating-custom-middleware-for-a-sinatra-application-in-ruby-07d743b9c4bd?source=rss-1a7725724267------2)
 - [Building Projects With Chrome’s On-device AI](https://levelup.gitconnected.com/building-projects-with-chromes-on-device-ai-4b66a5ec7fc1?source=rss-1a7725724267------2)
 - [An Introduction to Alternate Data Streams &lpar;ADS&rpar;](https://levelup.gitconnected.com/an-introduction-to-alternate-data-streams-ads-f849c0205d63?source=rss-1a7725724267------2)
-- [SQL Tip: Understanding the Difference Between UNION and UNION ALL](https://levelup.gitconnected.com/sql-tip-understanding-the-difference-between-union-and-union-all-618603628dcd?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
