@@ -1,6 +1,6 @@
 
 ### Hello 👋
-I am parthipan, a software craftsman comfortable working across the tech stack, handling DevOps with an interest in cybersecurity.
+I am parthipan, a software craftsman comfortable working across the tech stack with an interest in cybersecurity.
 
 ---
 
