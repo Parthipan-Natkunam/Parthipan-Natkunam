@@ -1,6 +1,6 @@
 
-### Hi there 👋
-I am parthipan, a full-stack software craftsman who is comfortable with handling DevOps.
+### Hello 👋
+I am parthipan, a software craftsman comfortable working across the tech stack, handling DevOps with an interest in cybersecurity.
 
 ---
 
@@ -33,8 +33,14 @@ I am parthipan, a full-stack software craftsman who is comfortable with handling
 - [Answer by Parthipan Natkunam for How do I Map one array value agaisnt another to produce a result](https://stackoverflow.com/questions/53299774/how-do-i-map-one-array-value-agaisnt-another-to-produce-a-result/53300303#53300303)
 <!-- STACKOVERFLOW:END -->
 
-
-
+### 🎥 Recent YouTube Videos
+<!-- YOUTUBE:START -->
+- [Compress a Folder Using Node.js: Spawn Parallel Processes with Child Process Module](https://youtu.be/0Z6-KuhqXGQ)
+- [Connect WSL MCP Servers To Claude Desktop on Windows](https://youtu.be/oNc8WsQLphY)
+- [Read Files Efficiently as Streams in Node JS](https://youtu.be/-oY5LhdzTKY)
+- [Practical Explanation: ASCII Smuggling & its impact on vibe coding](https://youtu.be/NokOzZCQaHM)
+- [How does a WeakMap Work in JavaScript?](https://youtu.be/FnaM_4N_OLg)
+<!-- YOUTUBE:END -->
 
 <!--
 **Parthipan-Natkunam/Parthipan-Natkunam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
