@@ -15,11 +15,11 @@ I am parthipan, a software craftsman comfortable working across the tech stack w
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing LLM Applications: Using LLM-as-a-Judge to Block Prompt Injection Attacks](https://infosecwriteups.com/securing-llm-applications-using-llm-as-a-judge-to-block-prompt-injection-attacks-321bc94d58b8?source=rss-1a7725724267------2)
 - [Understanding String Iteration in Go: Bytes vs Runes](https://levelup.gitconnected.com/understanding-string-iteration-in-go-bytes-vs-runes-043341db16e1?source=rss-1a7725724267------2)
 - [What are events in Node.js?](https://levelup.gitconnected.com/what-are-events-in-node-js-0faa048dabbc?source=rss-1a7725724267------2)
 - [2 Pointer Lead-Lag Motion: A Clear Explanation](https://levelup.gitconnected.com/2-pointer-lead-lag-motion-a-clear-explanation-8ff8003ae0ac?source=rss-1a7725724267------2)
 - [Build a Simple State Manager from Scratch](https://levelup.gitconnected.com/build-a-simple-state-manager-from-scratch-6493060d9716?source=rss-1a7725724267------2)
-- [An Illustrated Guide to 5 Overlooked Set Methods In Python](https://levelup.gitconnected.com/an-illustrated-guide-to-5-overlooked-set-methods-in-python-cef262ffad19?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
