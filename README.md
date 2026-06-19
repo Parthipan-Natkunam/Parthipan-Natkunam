@@ -15,11 +15,11 @@ I am parthipan, a software craftsman comfortable working across the tech stack w
 
 ### 📄 Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Modeling a Multi-Step Flow Without a Pile of Boolean Flags](https://levelup.gitconnected.com/modeling-a-multi-step-flow-without-a-pile-of-boolean-flags-b25c5df6cf7c?source=rss-1a7725724267------2)
 - [Reading a Paginated API Without Holding the Whole Thing in Memory](https://levelup.gitconnected.com/reading-a-paginated-api-without-holding-the-whole-thing-in-memory-e8b0be158f74?source=rss-1a7725724267------2)
 - [async/await is a Generator in Disguise. Let’s Build It From Scratch](https://levelup.gitconnected.com/async-await-is-a-generator-in-disguise-lets-build-it-from-scratch-610b4c4bb431?source=rss-1a7725724267------2)
 - [Processing a 2GB CSV in Node Without Running Out of Memory](https://levelup.gitconnected.com/processing-a-2gb-csv-in-node-without-running-out-of-memory-3819d71a870b?source=rss-1a7725724267------2)
 - [AI-Approved Waste: What a Second Pass on an AI-Built Extension Actually Caught](https://levelup.gitconnected.com/ai-approved-waste-what-a-second-pass-on-an-ai-built-extension-actually-caught-39924c03de5d?source=rss-1a7725724267------2)
-- [How MongoDB’s CSOT Kills KMS Requests in AWS Lambda](https://levelup.gitconnected.com/how-mongodbs-csot-kills-kms-requests-in-aws-lambda-52c553f00f34?source=rss-1a7725724267------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
